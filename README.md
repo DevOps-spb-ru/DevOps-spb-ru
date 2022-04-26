@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">System administrator & Security evangelist from Russia</h3>
 
-![Zero-Bot-Dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zero-bot-dot&show_icons=true&theme=github_dark)
+![ZeroBot-Dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobot-dot&show_icons=true&theme=github_dark)
 
 About me:
 - 🔭 Now I work for the reptilians
