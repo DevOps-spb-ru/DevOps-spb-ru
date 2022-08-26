@@ -5,6 +5,7 @@
 ![ZeroBot-Dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobot-dot&show_icons=true&theme=github_dark)
 
 About me:
+[![wakatime](https://wakatime.com/badge/user/a33412da-9f62-4574-943a-12660af2e15c.svg)](https://wakatime.com/@a33412da-9f62-4574-943a-12660af2e15c)
 - 🔭 Now I work in the company JSC "GNIVС"
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on intersted projects
