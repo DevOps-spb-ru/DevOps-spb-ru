@@ -2,7 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">DevOps Engineer</h3>
 
-![ZeroBot-Dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobot-dot&show_icons=true&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeroBot-Dot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeroBot-Dot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeroBot-Dot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZeroBot-Dot&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZeroBot-Dot&theme=dracula&utcOffset=8)
 
 [![wakatime](https://wakatime.com/badge/user/a33412da-9f62-4574-943a-12660af2e15c.svg)](https://wakatime.com/@a33412da-9f62-4574-943a-12660af2e15c)
 
