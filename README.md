@@ -11,7 +11,7 @@
 [![wakatime](https://wakatime.com/badge/user/a33412da-9f62-4574-943a-12660af2e15c.svg)](https://wakatime.com/@a33412da-9f62-4574-943a-12660af2e15c)
 
 About me:
-- 🔭 Now I work in the company DevOps.spb.ru
+- 🔭 Now I work in the company @DevOps-spb-org
 - 🌱 I’m currently learning DevOps best practices
 - 👯 I’m looking to collaborate on intersted projects
 - 📫 You can reach me at telegram: @devops_spb_ru
