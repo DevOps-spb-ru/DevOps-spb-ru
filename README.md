@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://devops.spb.ru/?utm_source=github&utm_medium=profile&utm_campaign=md" target="_blank">Aleksej Kazin</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi, I'm <a href="https://devops.spb.ru/?utm_source=github&utm_medium=profile&utm_campaign=md" target="_blank">Aleksej Kazin</a> 
+</h1>
 <h3 align="center">DevOps Engineer</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOps-spb-ru&theme=dracula)
