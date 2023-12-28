@@ -8,8 +8,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevOps-spb-ru&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevOps-spb-ru&theme=dracula&utcOffset=8)
 
-[![wakatime](https://wakatime.com/badge/user/a33412da-9f62-4574-943a-12660af2e15c.svg)](https://wakatime.com/@a33412da-9f62-4574-943a-12660af2e15c)
-
 About me:
 - 🔭 Now I work in the company [DevOps-spb-org](https://github.com/DevOps-spb-org)
 - 🌱 I’m currently learning DevOps best practices
